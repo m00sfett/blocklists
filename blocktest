@@ -1,2 +1,2 @@
 # test if regex is working
-zeit\.de
+(\.|^)zeit\.de$

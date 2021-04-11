@@ -1,6 +1,6 @@
 # test if regex is working
-zeit.de
-www.zeit.de
+#zeit.de
+#www.zeit.de
 zeit\.de
 (\.|^)zeit\.de
 www\.zeit\.de
